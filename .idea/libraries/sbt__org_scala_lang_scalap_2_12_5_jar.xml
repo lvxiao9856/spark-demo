@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.scala-lang:scalap:2.12.5:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/scala-lang/scalap/2.12.5/scalap-2.12.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/scala-lang/scalap/2.12.5/scalap-2.12.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/scala-lang/scalap/2.12.5/scalap-2.12.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

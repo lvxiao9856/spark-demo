@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.redislabs:spark-redis_2.12:2.4.2:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/com/redislabs/spark-redis_2.12/2.4.2/spark-redis_2.12-2.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/com/redislabs/spark-redis_2.12/2.4.2/spark-redis_2.12-2.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/com/redislabs/spark-redis_2.12/2.4.2/spark-redis_2.12-2.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

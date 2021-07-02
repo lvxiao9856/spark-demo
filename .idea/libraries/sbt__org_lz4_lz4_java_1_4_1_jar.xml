@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.lz4:lz4-java:1.4.1:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/lz4/lz4-java/1.4.1/lz4-java-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/lz4/lz4-java/1.4.1/lz4-java-1.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo.huaweicloud.com/repository/maven/org/lz4/lz4-java/1.4.1/lz4-java-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
